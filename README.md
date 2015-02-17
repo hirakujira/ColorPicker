@@ -20,6 +20,6 @@ Skala Color http://bjango.com/mac/skalacolor/
 
 Hex Color Picker http://wafflesoftware.net/hexpicker/
 
-# License
+## License
 
 MIT. Please kindly keep the credit of contributors.
