@@ -1,5 +1,7 @@
 # ColorPicker
 
+![Imgur](http://imgur.com/O1cp20w.png)
+
 ## Overview
 
 Very simple color picker for OS X 10.10 Yosemite.
