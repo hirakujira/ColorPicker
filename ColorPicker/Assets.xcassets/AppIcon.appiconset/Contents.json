@@ -3,61 +3,61 @@
     {
       "size" : "16x16",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-7.png",
+      "filename" : "AppIcon_16px.png",
       "scale" : "1x"
     },
     {
       "size" : "16x16",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-6.png",
+      "filename" : "AppIcon_16px@2x.png",
       "scale" : "2x"
     },
     {
       "size" : "32x32",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-5.png",
+      "filename" : "AppIcon_32px.png",
       "scale" : "1x"
     },
     {
       "size" : "32x32",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-4.png",
+      "filename" : "AppIcon_32px@2x.png",
       "scale" : "2x"
     },
     {
       "size" : "128x128",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-3.png",
+      "filename" : "AppIcon_128px.png",
       "scale" : "1x"
     },
     {
       "size" : "128x128",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-2.png",
+      "filename" : "AppIcon_128px@2x.png",
       "scale" : "2x"
     },
     {
       "size" : "256x256",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2-1.png",
+      "filename" : "AppIcon_256px.png",
       "scale" : "1x"
     },
     {
       "size" : "256x256",
       "idiom" : "mac",
-      "filename" : "ColorPicker 2.png",
+      "filename" : "AppIcon_256px@2x.png",
       "scale" : "2x"
     },
     {
       "size" : "512x512",
       "idiom" : "mac",
-      "filename" : "ColorPicker.png",
+      "filename" : "AppIcon.png",
       "scale" : "1x"
     },
     {
       "size" : "512x512",
       "idiom" : "mac",
-      "filename" : "ColorPicker-1.png",
+      "filename" : "AppIcon@2x.png",
       "scale" : "2x"
     }
   ],
